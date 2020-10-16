@@ -12,4 +12,4 @@ It will all be tracked here!
 #### Tags:
 When a new issue or enhancement is added, it will be given a series of Tags. These tags will indiciate the type and status of the item, for example if the item is a bug or enhancement and if it is in progress or fixed.
 #### Milestones:
-Milestones are how you will be kept informed of what fix or enancement is coming up next. Each milestone will have a version number that corresponds with the version you see in the Remote Falcon app or plugin and a date on which it will be released.
+Milestones are how you will be kept informed of what fix or enancement is coming up next. Each milestone will have a version number that corresponds with the version you see in the Remote Falcon app or plugin and a date on which it is planned to be released.
