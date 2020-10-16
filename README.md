@@ -1,8 +1,11 @@
 # Remote Falcon Tracker
 
 This is the official project tracker for all things Remote Falcon.
+
 Have an issue? Report it!
+
 Have an enhancement or feature request? Tell us about it!
+
 It will all be tracked here!
 
 ### Some Things to Know
