@@ -8,6 +8,10 @@ Have an enhancement or feature request? Tell us about it!
 
 It will all be tracked here!
 
+### What to Do
+* When creating an issue, be sure include your show name to help with debugging the issue.
+* Include as much detail as possible. This prevents having to go back and forth in the comments and speeds up resolution.
+
 ### Some Things to Know
 #### Tags:
 When a new issue or enhancement is added, it will be given a series of Tags. These tags will indiciate the type and status of the item, for example if the item is a bug or enhancement and if it is in progress or fixed.
