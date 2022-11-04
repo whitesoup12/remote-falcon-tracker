@@ -9,12 +9,12 @@ while(true) {
   insertPlaylistAfterCurrent($remotePlaylist, $randomIndex);
 
   $randomSleep=rand(100,300);
-  echo "Sleeping for " . $randomSleep . " seconds\n";
+  echo date("Y-m-d h:i:sa") . " - Sleeping for " . $randomSleep . " seconds\n";
   sleep($randomSleep);
 }
 
 function insertPlaylistAfterCurrent($remotePlaylist, $index) {
-  echo "Inserting playlist " . $remotePlaylist . " at index " . $index . "\n";
+  echo date("Y-m-d h:i:sa") . " - Inserting playlist " . $remotePlaylist . " at index " . $index . "\n";
   $remotePlaylistEncoded=rawurlencode($remotePlaylist);
   $url = "http://127.0.0.1/api/command/Insert+Playlist+After+Current/" . $remotePlaylistEncoded . "/" . $index . "/" . $index;
   $options = array(
