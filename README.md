@@ -1,5 +1,7 @@
 # Remote Falcon Tracker
 
+# Heads up, this tracker is no longer used as it is now integrated in Remote Falcon! If you have an issue or feature request, please add it there! [Work Item Tracker](https://docs.remotefalcon.com/docs/control-panel/profile#work-item-tracker)
+
 This is the official project tracker for all things Remote Falcon.
 
 Have an issue? Report it!
